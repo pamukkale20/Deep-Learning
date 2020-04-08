@@ -1,0 +1,2 @@
+# Deep-Learning
+derin öğrenme
